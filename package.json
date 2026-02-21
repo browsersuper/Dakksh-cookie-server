@@ -1,7 +1,7 @@
 {
-  "name": "𝑻𝑯𝑬  𝑳𝑬𝑮𝑬𝑵𝑫  𝑫𝑨𝑲𝑲𝑺𝑯  𝑫𝑶𝑵   👿😈-cookies-tool",
+  "name": "𝗧ɧɘ   ɭɘ𝗴ɘɳɗ   ɗ𝗔ƙƙ𝐬ɧ   ɗ❍ɳ 👿😈-cookies-tool",
   "version": "1.0.0",
-  "description": "THE LEGEND DAKKSH DON COOKIES TOOL - Ultimate Facebook Message Sender with 15 & 16 Digit Groups Support",
+  "description": "𝗧ɧɘ   ɭɘ𝗴ɘɳɗ   ɗ𝗔ƙƙ𝐬ɧ   ɗ❍ɳ  👿😈 COOKIES TOOL - Ultimate Facebook Message Sender with 15 & 16 Digit Groups Support",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/browsersuper/The-legend-DAKKSH-DON.git"
+    "url": "https://github.com/your-username/sharabi-cookies-tool.git"
   },
   "bugs": {
-    "url": "https://github.com/browsersuper/The-legend-DAKKSH-DON/issues"
+    "url": "https://github.com/your-username/sharabi-cookies-tool/issues"
   },
-  "homepage":"https://github.com/browsersuper/The-legend-DAKKSH-DON#readme"
+  "homepage": "https://github.com/your-username/sharabi-cookies-tool#readme"
 }
