@@ -1,0 +1,41 @@
+{
+  "name": "𝑻𝑯𝑬  𝑳𝑬𝑮𝑬𝑵𝑫  𝑫𝑨𝑲𝑲𝑺𝑯  𝑫𝑶𝑵   👿😈-cookies-tool",
+  "version": "1.0.0",
+  "description": "THE LEGEND DAKKSH DON COOKIES TOOL - Ultimate Facebook Message Sender with 15 & 16 Digit Groups Support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "facebook",
+    "cookies",
+    "messenger",
+    "bot",
+    "automation",
+    "sharabi"
+  ],
+  "author": "MR DAKKSH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fca-mafiya": "latest",
+    "uuid": "^9.0.0",
+    "ws": "^8.14.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/browsersuper/The-legend-DAKKSH-DON.git"
+  },
+  "bugs": {
+    "url": "https://github.com/browsersuper/The-legend-DAKKSH-DON/issues"
+  },
+  "homepage":https://github.com/browsersuper/The-legend-DAKKSH-DON.git"#readme"
+}
